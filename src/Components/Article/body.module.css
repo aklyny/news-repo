@@ -1,0 +1,20 @@
+.article_body h1{
+    text-align: center;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.article_image{
+    height: 400px;
+    width: 50%;
+    background-size: cover !important;
+    background-position: center center !important;
+    margin: 0px auto;
+    background: url('/images/articles/');
+}
+
+.article_text{
+    text-align: center;
+    width: 50%;
+    margin: 0px auto;
+}

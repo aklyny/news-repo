@@ -1,0 +1,13 @@
+.video_wrap{
+    font-weight: 500;
+    width: 50%;
+    margin: 0px auto;
+}
+.video_wrap iframe{
+    margin: 0px auto;
+}
+
+.con{
+    width: 50%;
+    margin: 0px auto;
+}

@@ -1,0 +1,30 @@
+.nav{
+    height: 30px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    border-radius: 4px;
+    margin: 0px auto;
+    padding: 12px;
+    color: cornsilk;
+   
+}
+
+img{
+    height: 30px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+}
+
+.view{
+    display: flex;
+}
+.logo{
+    flex-grow: 1;
+
+   }
+.bars{
+    margin-right: 20px;
+    height: 40px;
+   }
+.headerOpt{
+    display: flex;
+}   

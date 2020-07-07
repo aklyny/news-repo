@@ -1,0 +1,40 @@
+.teamheader{
+    border:1px solid #c5c5c5;
+    border-bottom: 0px;
+    background: #fff;
+    margin: 0 auto;
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+width: 150px;
+height: 150px;
+background-size: 50%;
+background-repeat: no-repeat !important;
+background-position: center center !important;
+}
+.right{
+flex-grow: 1;
+padding-left: 10px;
+font-size: 20px;
+font-weight: 300px;
+}
+
+.postdata{
+    border:1px solid #c5c5c5;
+    border-bottom: 0px;
+    background: #fff;
+    margin: 0 auto;
+    width: 50%;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.postdata span{
+font-weight: 500;
+border-top: 10px;
+border-bottom: 10px;
+}

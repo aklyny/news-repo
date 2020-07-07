@@ -1,0 +1,19 @@
+.footer{
+    height: 30px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    border-radius: 4px;
+    margin: 0px auto;
+    padding: 12px;
+    display: flex;
+    color: cornsilk;
+}
+
+img{
+    height: 30px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+}
+.right{
+    margin: 0px auto;
+    color: #878787;
+}

@@ -1,0 +1,59 @@
+.logcont{
+    width: 50%;
+    margin: 0px auto;
+    height: 100vh;
+    padding-top: 50px;
+}
+.logcont input{
+    height: 40px;
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    box-sizing: border-box;
+    font-weight: 100;
+}
+.logcont h2{
+    font-family: cursive;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 300;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    font-size: 40px;
+}
+
+.err{
+    color: red;
+    margin-bottom: 20px;
+    font-family: cursive;
+    font-weight: 200;
+}
+
+.btn button{
+    padding:10px;
+    height: 40px;
+    margin: 0 auto;
+    margin-right: 30px;
+    margin-left: 20px;
+    width: 100px;
+    border: 2px;
+    font-size: 15px;
+    font-family: cursive;
+    background: #03a9f0;
+    border-radius: 5px;
+}
+.btn :hover{
+    background: powderblue;
+    cursor: pointer;
+    color: red;
+}
+.regerr{
+    color: red;
+    font-family: cursive;
+    font-size: 20px;
+}

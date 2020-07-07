@@ -1,0 +1,11 @@
+.video h3{
+    text-align: center;
+    color: #353353;
+    font-weight: 300;
+    font-size: 30px;
+}
+.video{
+    background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+    margin: 0px auto;
+    width: 50%;
+}

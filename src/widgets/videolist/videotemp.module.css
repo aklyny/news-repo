@@ -1,0 +1,25 @@
+.video{
+    display: flex; 
+    margin: 0px auto;
+    border-bottom: 2px solid #d5d5d5;
+    background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+}
+.video h2{
+    color: #525255;;
+    font-size: 20px;
+}
+.left{
+    background-size: cover !important;
+}
+.left div{
+    width: 130px;
+    height: 90px;
+    background-size: 50px;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background: url('/images/play.png');
+}
+.right{
+    flex-grow: 1;
+    padding: 15px;
+}

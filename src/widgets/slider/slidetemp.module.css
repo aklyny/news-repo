@@ -1,0 +1,29 @@
+.slick{
+    margin-top: 10px;
+    border: 0px solid;
+    
+}
+.slide_item {
+ position: relative;
+ 
+}
+
+.slide_item a{
+    color:black;
+    margin: 0px auto;
+    text-align: center;
+    font-weight: 100;
+}
+
+.slide_image{
+    height: 400px;
+    width: 60%;
+    margin: 0px auto;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    border-radius: 5px;
+}
+.slide_image img{
+    background-position:center;
+    
+}
